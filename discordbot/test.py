@@ -32,4 +32,4 @@ if __name__ == '__main__':
     #BOTのPrefixを定義
     bot = TestBot(cmd_prefix = '$')
     #実行
-    bot.run('NTgwNjk4MDEzMDUyMTc0MzM2.XOUfMQ.DIr9J0ltN7VVOunpfechAVIEWek')
+    bot.run('Your bot token')
