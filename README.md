@@ -10,8 +10,7 @@
 ```python -m pip install -U pip```  
 と入力しpipをアップグレードしてください  
 そして、終わったら
-```python -m pip install -U discord.py[voice]```
-と入力してください。ボイスサポート付きのdiscord.pyを最新バージョンでインストールします。
+```python -m pip install -U discord.py[voice]```と入力してください。ボイスサポート付きのdiscord.pyを最新バージョンでインストールします。
 
 そして私が置いてる`test.py`を開いてトークンを貼り付けてください
 ```
