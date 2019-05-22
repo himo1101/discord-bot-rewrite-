@@ -6,8 +6,7 @@
 [Python](https://www.python.org/downloads/release/python-373/)
 これは私の開発環境のPython3.7.3のインストーラーが公開されてるページのURLです  
 次にcmdを開き
-```python -m pip install -U pip```  
-と入力しpipをアップグレードしてください  
+```python -m pip install -U pip```と入力しpipをアップグレードしてください  
 そして、終わったら
 ```python -m pip install -U discord.py[voice]```と入力してください。ボイスサポート付きのdiscord.pyを最新バージョンでインストールします。
 
