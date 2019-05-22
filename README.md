@@ -5,7 +5,6 @@
 まずあなたは、Python3.7xをダウンロードする必要があります。  
 [Python](https://www.python.org/downloads/release/python-373/)
 これは私の開発環境のPython3.7.3のインストーラーが公開されてるページのURLです  
-そしてインストールします  
 次にcmdを開き
 ```python -m pip install -U pip```  
 と入力しpipをアップグレードしてください  
