@@ -6,7 +6,7 @@ from discord.ext import commands
 
 #コグとして読み込むファイルを格納
 LOAD_FILE = [
-    'cog.ct'
+    'cog.ping'
 ]
 
 class TestBot(commands.Bot):
